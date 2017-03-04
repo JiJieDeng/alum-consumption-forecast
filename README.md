@@ -10,4 +10,4 @@
  * 输出神经元个数：１<br/>
 神经网络训练好后，将网络参数导出，并使用JS重写此神经网络，使其能够运行在浏览器上。使用HTML做了简单的UI。<br/><br/>
 ### 成品展示:metal:<br/>
-[展示](http://www.buildce.com/demo/sc.html "展示")
+[展示](http://www.buildce.com/demo/sc.html "展示")，代码见`神经网络预测水厂矾耗JS代码.html`文件。 

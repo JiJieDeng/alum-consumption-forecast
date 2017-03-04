@@ -14,7 +14,7 @@
 		预测效果图：<br/>
 ![预测效果图](https://github.com/JiJieDeng/alum-consumption-forecast/raw/master/%E9%A2%84%E6%B5%8B%E6%95%88%E6%9E%9C.png "预测效果图")<br/><br/>
 ### 项目感想 :metal:
-感想<br/><br/>
+<a href="dddd" target="_blank">感想</a><br/><br/>
 ### 关键代码 :metal:
 训练好的神经的JS实现代码如下：<br/>
 ```Javascript

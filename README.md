@@ -10,7 +10,7 @@
 
 神经网络训练好后，将网络参数导出，并使用JS重写此神经网络，使其能够运行在浏览器上。使用HTML做了简单的UI。<br/><br/>
 ### 成品展示 :metal:
-[展示](http://www.buildce.com/demo/sc.html "展示")，代码见`神经网络预测水厂矾耗JS代码.html`文件。 <br/><br/>
+代码见`神经网络预测水厂矾耗JS代码.html`文件。 <br/><br/>
 		预测效果图：<br/>
 ![预测效果图](https://github.com/JiJieDeng/alum-consumption-forecast/raw/master/%E9%A2%84%E6%B5%8B%E6%95%88%E6%9E%9C.png "预测效果图")<br/><br/>
 ### 关键代码 :metal:
